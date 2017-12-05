@@ -1,6 +1,6 @@
 # Github-quiz
 #### **Will's wonderful Github Quiz**
-![image of balloons](http://hdwarena.com/wonderful-image.png) 
+![image of balloons](wonderful-indonesia-2013-01-28.png) 
 
 
 
