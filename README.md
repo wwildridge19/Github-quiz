@@ -1,6 +1,6 @@
 # Github-quiz
 #### **Will's wonderful Github Quiz**
-![image of balloons](http://anguerde.com/TTF-406272-wonderful.html) 
+![image of balloons](http://hdwarena.com/wonderful-image.html) 
 *I have a dog 
 *I know a touch of python
 *Chocolate ice cream
